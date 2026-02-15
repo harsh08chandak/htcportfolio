@@ -9,7 +9,7 @@
 // Format: YYYY-MM-DD (e.g., '2024-08-15' for August 15, 2024)
 // =============================================================================
 
-const EXPERIENCE_START_DATE = '2024-01-01'; // EDIT THIS DATE TO CHANGE YOUR START DATE
+const EXPERIENCE_START_DATE = '2026-02-14'; // EDIT THIS DATE TO CHANGE YOUR START DATE
 
 function calculateExperienceDuration() {
     const startDate = new Date(EXPERIENCE_START_DATE);
@@ -268,4 +268,5 @@ document.addEventListener('DOMContentLoaded', function() {
 
 console.log('%cHarsh Chandak - Data Analyst Portfolio', 'color: #FFD700; font-size: 20px; font-weight: bold;');
 console.log('%cBuilt with HTML, CSS, and vanilla JavaScript', 'color: #B0B0B0; font-size: 14px;');
+
 console.log('%cLooking to hire? Let\'s talk!', 'color: #00D9FF; font-size: 16px;');
